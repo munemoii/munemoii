@@ -8,8 +8,7 @@ IT support professional based in Gaithersburg, Maryland — IT Technician backgr
 
 A live public website tracking Zambia's Constituency Development Fund project by project: what was allocated, what was released, and what councils across Zambia publish as approved, ongoing and completed. Every figure is tied to a named, dated source — and where a council has not published, the tracker says so plainly.
 
-- 2,777 projects tracked across all 10 provinces, covering 144 of 156 constituencies
-- 519 sources in the tracking database; uncertain or conflicting records are held for review, never published on a guess
+- Every published project, tracked one by one, each with its source.
 - K6.24 billion in 2026 allocations tracked (K40 million per constituency)
 - SQLite tracking model with a generated-feed publishing pipeline; sources swept eight times a day
 
